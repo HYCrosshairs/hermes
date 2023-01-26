@@ -1,2 +1,2 @@
 # hermes
-MQTT server
+MQTT broker
